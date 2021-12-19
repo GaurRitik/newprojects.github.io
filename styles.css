@@ -1,0 +1,82 @@
+*{
+ padding:0;
+ margin:0;   
+}
+body{
+    background-color: #4C3F91;
+}
+header
+{
+background-color:  #4C3F91;
+text-align: center;
+height: 70%;
+
+}
+h2
+{
+margin-top: 10px;    
+font-size: 60px;
+color:white;
+}
+h4
+{
+font-size: 35px;
+margin-top: 65px;
+margin-left: 12px;
+color:white;
+}
+.projlist
+{
+margin-top: 25px;
+
+
+}
+.container{
+    margin: 50px;
+    
+    
+    
+}
+.child
+{
+margin-top: 12px;
+}
+.element
+{
+margin:5px 5px 7px 5px;
+
+
+border-top:3px solid wheat;
+height:200px;
+
+background-color:#9145B6;
+display: flex;
+}
+.sort
+{
+margin-left: 27%;
+font-size:20px;
+background-color: #FF5677;
+color:black;
+border:1px solid black;
+border-radius: 10%;
+height:80px;
+margin-top: 38px;
+cursor:pointer;
+}
+.crypto
+{
+margin-left: 28%;
+font-size:20px;
+background-color: #FF5677;
+color:black;
+border:1px solid black;
+border-radius: 10%;
+height:80px;
+margin-top: 38px;
+cursor:pointer;
+}
+a{
+text-decoration: none;    
+color:white;
+}
